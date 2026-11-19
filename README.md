@@ -58,30 +58,30 @@ Este README.md é um exemplo de formatação básica no GitHub.
 
 ## Tabela
  
-| Markdown | Equivalente HTML |
-|----------|--------|
-| `# Texto` | `<h1> Texto </h1> <hr>` |
-| `## Texto` | `<h2> Texto </h2> <hr>` |
-| `### Texto` | `<h3> Texto </h3>` |
-| `#### Texto` | `<h4> Texto </h4>` |
-| `*Texto*` | `<i> Texto </i>` |
-| `**Texto**` | `<b> Texto </b>` |
-| `~~ Texto ~~` | `<s> Texto </s>` |
-| `---` | `<hr>` |
-|`![texto alt](caminho-exemplo/img/imagem.png)`| `<img alt="texto alt" src="caminho-exemplo/img/imagem.png">`|
+|Função/nome | Markdown | Equivalente HTML |
+|------|----------|--------|
+|Título grande| `# Texto` | `<h1> Texto </h1> <hr>` |
+|Título grande (menor)| `## Texto` | `<h2> Texto </h2> <hr>` |
+|Título| `### Texto` | `<h3> Texto </h3>` |
+|Título pequeno| `#### Texto` | `<h4> Texto </h4>` |
+|Texto em itálico| `*Texto*` | `<i> Texto </i>` |
+|Texto em negrito| `**Texto**` | `<b> Texto </b>` |
+|Texto riscado| `~~ Texto ~~` | `<s> Texto </s>` |
+|Linha| `---` | `<hr>` |
+|Imagem|`![texto alt](caminho-exemplo/img/imagem.png)`| `<img alt="texto alt" src="caminho-exemplo/img/imagem.png">`|
 
 ## Mostrar bloco de código
 É possível mostrar grandes blocos de código escrevendo ~~~ ou ``` e pulando uma linha. Esses comandos não funcionam nesse texto pois estão na mesma linha. Exemplo: 
 
 ```
-| Markdown | Equivalente HTML |
-|----------|--------|
-| `# Texto` | `<h1> Texto </h1> <hr>` |
-| `## Texto` | `<h2> Texto </h2> <hr>` |
-| `### Texto` | `<h3> Texto </h3>` |
-| `#### Texto` | `<h4> Texto </h4>` |
-| `*Texto*` | `<i> Texto </i>` |
-| `**Texto**` | `<b> Texto </b>` |
-| `~~ Texto ~~` | `<s> Texto </s>` |
-| `---` | `<hr>` |
-|`![texto alt](caminho-exemplo/img/imagem.png)`| `<img alt="texto alt" src="caminho-exemplo/img/imagem.png">`|
+|Função/nome | Markdown | Equivalente HTML |
+|------|----------|--------|
+|Título grande| `# Texto` | `<h1> Texto </h1> <hr>` |
+|Título grande (menor)| `## Texto` | `<h2> Texto </h2> <hr>` |
+|Título| `### Texto` | `<h3> Texto </h3>` |
+|Título pequeno| `#### Texto` | `<h4> Texto </h4>` |
+|Texto em itálico| `*Texto*` | `<i> Texto </i>` |
+|Texto em negrito| `**Texto**` | `<b> Texto </b>` |
+|Texto riscado| `~~ Texto ~~` | `<s> Texto </s>` |
+|Linha| `---` | `<hr>` |
+|Imagem|`![texto alt](caminho-exemplo/img/imagem.png)`| `<img alt="texto alt" src="caminho-exemplo/img/imagem.png">`|
